@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AFL Score Keeper</string>
+    <string name="teamA">Swans</string>
+    <string name="teamB">Saints</string>
+</resources>
